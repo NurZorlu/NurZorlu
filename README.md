@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="100"/> <br />
-  ### Hi there 👋
+ Hi there 👋
 </div>
 <!--
 **NurZorlu/NurZorlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
