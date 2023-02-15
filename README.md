@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="100"/> <br />
+  <img src="https://blush.design/api/download?shareUri=jWDIZXq5aRPjTcl5&c=Bottom_0%7E89c5cc_Hair_0%7E181658_Skin_0%7Edcae92_Top_0%7Eff4133&bg=ffcddf&w=800&h=800&fm=png" width="100"/> <br />
  Hi there 👋
 </div>
 <!--
