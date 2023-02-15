@@ -1,6 +1,6 @@
 # Hi! I'm Nur 👋 👩‍💻
 ## Self-Taught Frontend Developer
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/freelancer-working-laptop-her-house_1150-35054.jpg?w=740&t=st=1676452200~exp=1676452800~hmac=d0c551c6689764310547453573e220bb03ca65a94c81d104d3b8da0845bf905e">
+<img align="left" alt="Coding" width="400" src="https://github.com/NurZorlu/NurZorlu/blob/main/Work_from_home-removebg-preview.png">
  My interest in IT began when I interviewed a software engineer from Kyrgyzstan. Introduction to programming was through the app, and I've had to overcome all of my preconceived notions about IT. Every day I learn from my mistakes and strive to improve my abilities. 
    
  
