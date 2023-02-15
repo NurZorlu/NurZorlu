@@ -1,4 +1,4 @@
-
+<img src="https://github.com/NurZorlu/NurZorlu/blob/main/banner%20(1).png">
 
 ## Self-Taught Frontend Developer
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-flat-design-sql-illustration_23-2149262964.jpg?w=826&t=st=1676450887~exp=1676451487~hmac=18f522834a4c7384d737ba28301f7aa03af1ed27419ce7f43e8853680fb4361a">
