@@ -1,7 +1,8 @@
 # Hi! I'm Nur 👋 👩‍💻
 ## Self-Taught Frontend Developer
 <img align="right" alt="Coding" width="400" src="https://github.com/NurZorlu/NurZorlu/blob/main/Work_from_home-removebg-preview.png">
- My interest in IT began when I interviewed a software engineer from Kyrgyzstan. Introduction to programming was through the app, and I've had to overcome all of my preconceived notions about IT. Every day I learn from my mistakes and strive to improve my abilities. 
+ My interest in IT began when I interviewed a software engineer from Kyrgyzstan. Introduction to programming was through the app, and I've had to overcome all of my preconceived notions about IT 😊. 
+Every day I learn from my mistakes and strive to improve my abilities 💪. 
    
  
  
