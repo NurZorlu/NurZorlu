@@ -1,7 +1,6 @@
-<img src="https://github.com/NurZorlu/NurZorlu/blob/main/banner%20(1).png">
-
+# Hi! I'm Nur 👋 👩‍💻
 ## Self-Taught Frontend Developer
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-flat-design-sql-illustration_23-2149262964.jpg?w=826&t=st=1676450887~exp=1676451487~hmac=18f522834a4c7384d737ba28301f7aa03af1ed27419ce7f43e8853680fb4361a">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/freelancer-working-laptop-her-house_1150-35054.jpg?w=740&t=st=1676452200~exp=1676452800~hmac=d0c551c6689764310547453573e220bb03ca65a94c81d104d3b8da0845bf905e">
  My interest in IT began when I interviewed a software engineer from Kyrgyzstan. Introduction to programming was through the app, and I've had to overcome all of my preconceived notions about IT. Every day I learn from my mistakes and strive to improve my abilities. 
    
  
